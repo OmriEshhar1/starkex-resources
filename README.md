@@ -1,3 +1,8 @@
+# DISCLAIMER
+
+Note this repo is a deprecated implementation of a committee node for older versions of StarkEx.
+For the updated committee code please refer to the [starkex-data-availability-committee](https://github.com/starkware-libs/starkex-data-availability-committee) repo.
+
 # Stark Exchange Resources
 
 This repo hold a collection of tools to support the Stark Exchange.
